@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+sentence-transformers
+torch
+numpy
+nltk
+pydantic
+sqlite3
+prettier
